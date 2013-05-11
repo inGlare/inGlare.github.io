@@ -1,4 +1,4 @@
 inGlare.github.io
 =================
 
-Corporation Page.
+inGlare Lab.
